@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Space blaster game artwork</title><desc id="desc">A colourful retro space scene with a player ship and stars.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#163b5b"/><stop offset="1" stop-color="#5c2f73"/></linearGradient><linearGradient id="ship" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f7d46a"/><stop offset="1" stop-color="#ed6b52"/></linearGradient></defs>
+  <rect width="900" height="520" fill="url(#bg)"/><g fill="#fff" opacity=".8"><circle cx="90" cy="80" r="3"/><circle cx="180" cy="190" r="2"/><circle cx="290" cy="65" r="3"/><circle cx="420" cy="140" r="2"/><circle cx="670" cy="85" r="3"/><circle cx="800" cy="210" r="2"/><circle cx="740" cy="390" r="3"/><circle cx="120" cy="390" r="2"/></g>
+  <g transform="translate(450 265)"><path d="M0-135L42 55 0 35-42 55z" fill="url(#ship)" stroke="#fff" stroke-width="5"/><path d="M-40 35l-80 52 92-13M40 35l80 52-92-13" fill="#62c6d0" stroke="#fff" stroke-width="5"/><path d="M-16 90h32l-16 52z" fill="#f2c24d"/></g>
+  <g fill="none" stroke="#f2c24d" stroke-width="5" opacity=".8"><path d="M150 290h50M700 300h50M250 420h70"/></g>
+</svg>
