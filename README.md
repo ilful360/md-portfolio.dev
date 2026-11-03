@@ -1,4 +1,4 @@
-# MD.Portfolio
+# md-portfolio.dev
 
 A responsive, accessible six-page static portfolio website for MD Ilful Hossain. It uses plain HTML, CSS and JavaScript and can be opened directly in a browser or published on any static web host.
 
@@ -31,3 +31,9 @@ Then visit `http://localhost:8000`.
 - Project cards with links to live work and GitHub
 - Reduced-motion support for users who prefer less animation
 - All website pictures and animated GIFs stored in the dedicated `images/` folder
+
+## Preview
+This site is live at 
+```bash
+https://ilful360.github.io/md-portfolio.dev/index.html
+```
